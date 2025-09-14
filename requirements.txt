@@ -1,0 +1,5 @@
+# Requirements for OSS Forge
+# Lightweight dependencies for core functionality
+
+pyyaml>=6.0
+jsonschema>=4.17.0
