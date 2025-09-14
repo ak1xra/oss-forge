@@ -37,6 +37,8 @@ python forge.py --help
 
 ## Usage Example
 
+> ⚠️ **Note**: Currently, `forge_codex.md` is a placeholder. The following shows planned usage for the next phase.
+
 1. Clone this repository
 2. Open Cursor / Claude Code / Codex
 3. Provide `forge_codex.md` as context
